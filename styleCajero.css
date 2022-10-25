@@ -1,0 +1,22 @@
+
+
+  .op1 .btn1:hover,.btn2:hover,.btn3:hover{
+    filter: brightness(70%);
+  }
+
+  .btn1,.btn2,.btn3 {
+    text-align: center;
+    width: 100px;
+    margin: 15px 15px;
+  }
+  
+  #btncancelar{
+  padding: 5px;
+    text-align: center;
+    align-items: center;
+    border-radius: 40px;
+    width: 6em;
+    border: none;
+    color: #ffffff;
+    font-size: 17px;
+  }
